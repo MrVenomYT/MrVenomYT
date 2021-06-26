@@ -60,6 +60,8 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=venom-hun5&theme=tokyonight">
 </details>
 <!-- Last updated on Thu Jun 03 2021 15:33:45 GMT+0000 (Coordinated Universal Time) ;-;-->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-hasil-603842166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-hasil-603842166?trk=profile-badge">Muhammad Hasil</a></div>
+              
 <i>Last updated on 3rd June 2021 using magic</i> ✨"# venomhun5" 
 
 "# venom-hun5" 
