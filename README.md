@@ -13,10 +13,11 @@
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm MrVenomYT and I am 23 year old. I mostly use Nodejs and Javascript and Discordjs as a primary language to code with projects. You can find more at </p>
 <p align="center">
-  <a href="https://discord.gg/bTY2quuXp3"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/ultrax.1"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/UltraX1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-   
+  <a href="https://www.facebook.com/m.hasil.hun5/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/realmrvenomyt"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCgkRkvD3IiZCtaxjyG-mwSA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://pk.linkedin.com/in/muhammad-hasil-603842166
+"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <h1 align="center">Join Support Server</h1>
  <a href="https://discord.gg/bTY2quuXp3"><img align="center" src="https://discordapp.com/api/guilds/841606148918476800/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
@@ -70,17 +71,4 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=venom-hun5&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venom-hun5&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=venom-hun5&theme=tokyonight">
 </details>
-<!-- Last updated on Thu Jun 03 2021 15:33:45 GMT+0000 (Coordinated Universal Time) ;-;-->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-hasil-603842166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-hasil-603842166?trk=profile-badge">Muhammad Hasil</a></div>
-              
-  **© [MrVenomYT](https://github.com/Venom-hun5)**
 
----
-
-<h1 align='center'>My Stats!</h1>
-
-<div align ="center">
-
-<img src="https://metrics.lecoq.io/gtagamermods?base.repositories=0&languages=1&isocalendar=1&followup=1">
-
-</div>
