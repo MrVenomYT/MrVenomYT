@@ -40,10 +40,10 @@ const Hasil = {
 
 # Stats
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=venom-hun5&theme=dracula"></div>
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venom-hun5&theme=tokyonight&hide=batchfile"> </div>
- <div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=venom-hun5&theme=tokyonight">
+ <div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venom-hun5&theme=tokyonight&hide=batchfile"> </div>
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=venom-hun5&theme=tokyonight">
 </div>
- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venom-hun5&theme=tokyonight">
+ <div align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=venom-hun5&theme=tokyonight">
  </div>
 
 
