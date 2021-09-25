@@ -11,7 +11,7 @@
  <a href="https://discord.gg/bTY2quuXp3"><img align="center" src="https://discordapp.com/api/guilds/841606148918476800/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
 
-## Hello, Im Hasil <img src="https://raw.githubusercontent.com/venom-hun5/venom-hun5/master/images/WaveIcon.gif" width="30px">
+## Hello, Im MrVenomYT <img src="https://raw.githubusercontent.com/venom-hun5/venom-hun5/master/images/WaveIcon.gif" width="30px">
 
 
 ```js
@@ -40,10 +40,10 @@ const Hasil = {
 
 # Stats
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MrVenomYT&theme=dracula"></div>
- <div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVenomYT&theme=tokyonight&hide=batchfile"> </div>
+ <div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVenomYT&theme=tokyonight&hide=batchfile"> </div>
  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrVenomYT&theme=tokyonight">
 </div>
- <div align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVenomYT&theme=tokyonight">
+ <div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVenomYT&theme=tokyonight">
  </div>
 
 
