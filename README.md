@@ -39,11 +39,10 @@ const Hasil = {
 </div>
 
 # Stats
-  <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MrVenomYT&theme=dracula"></div>
- <div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVenomYT&theme=tokyonight&hide=batchfile"> </div>
- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrVenomYT&theme=tokyonight">
-</div>
- <div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVenomYT&theme=tokyonight">
- </div>
+
+ <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MrVenomYT&theme=dracula"></div>
+ <div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVenomYT&theme=tokyonight&hide=batchfile"> </div>
+ <div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVenomYT&theme=tokyonight"></div>
+ <div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrVenomYT&theme=tokyonight"></div>
 
 
