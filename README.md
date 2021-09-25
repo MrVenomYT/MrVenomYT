@@ -42,7 +42,7 @@ const Hasil = {
 
  <div align="center"><img align="right" src="https://github-profile-trophy.vercel.app/?username=MrVenomYT&theme=dracula">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVenomYT&theme=tokyonight&hide=batchfile">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVenomYT&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MrVenomYT&theme=tokyonight"></div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrVenomYT&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrVenomYT&theme=tokyonight"></div>
 
 
