@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm MrVenomYT and I am 23 year old. I mostly use Nodejs and Javascript and Discordjs as a primary language to code with projects. You can find more at </p>
+<p align="center">Hello I'm MrVenomYT and I am 2 year old. I mostly use Nodejs and Javascript and Discordjs as a primary language to code with projects. You can find more at </p>
 <p align="center">
   <a href="https://www.facebook.com/m.hasil.hun5/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
  <a href="https://instagram.com/realmrvenomyt"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -8,10 +8,11 @@
     <a href="https://pk.linkedin.com/in/muhammad-hasil-603842166
 "><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <h1 align="center">Join Support Server</h1>
+ 
  <a href="https://discord.gg/bUsJF475K5"><img align="center" src="https://discordapp.com/api/guilds/969870943314915348/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
 
-## Hello, Im MrVenomYT <img src="https://raw.githubusercontent.com/venom-hun5/venom-hun5/master/images/WaveIcon.gif" width="30px">
+## Hello, Im MrVenomYT <img src="https://raw.githubusercontent.com/MrVenomYT/MrVenomYT/master/images/WaveIcon.gif" width="30px">
 
 
 ```js
