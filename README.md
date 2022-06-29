@@ -8,7 +8,7 @@
     <a href="https://pk.linkedin.com/in/muhammad-hasil-603842166
 "><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <h1 align="center">Join Support Server</h1>
- <a href="https://discord.gg/bTY2quuXp3"><img align="center" src="https://discordapp.com/api/guilds/841606148918476800/widget.png?style=banner2" alt="Discord Banner2"/></a>
+ <a href="https://discord.gg/bUsJF475K5"><img align="center" src="https://discordapp.com/api/guilds/841606148918476800/widget.png?style=banner2" alt="Discord Banner2"/></a>
 
 
 ## Hello, Im MrVenomYT <img src="https://raw.githubusercontent.com/venom-hun5/venom-hun5/master/images/WaveIcon.gif" width="30px">
@@ -17,7 +17,7 @@
 ```js
 const Hasil = {
     Age: 23,
-    Description: "Hello, My name is MrVenomYT 😉. I am 23 y/o, Learning new things and stuff about the internet...",
+    Description: "Hello, My name is MrVenomYT 😉. I am 24 y/o, Learning new things and stuff about the internet...",
     FavouriteLanguage: "Javascript/Nodejs",
     OpenedIssues: 13,
     OpenedPullRequests: 48,
