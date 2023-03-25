@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![who](https://raw.githubusercontent.com/MrVenomYT/MrVenomYT/master/images/18123-developer.gif)
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm MrVenomYT and I am 2 year old. I mostly use Nodejs and Javascript and Discordjs as a primary language to code with projects. You can find more at </p>
 <p align="center">
@@ -17,8 +17,8 @@
 
 ```js
 const Hasil = {
-    Age: 23,
-    Description: "Hello, My name is MrVenomYT 😉. I am 24 y/o, Learning new things and stuff about the internet...",
+    Age: 24,
+    Description: "Hello, My name is Muhammad Hasil 😉. I am 24 y/o, Learning new things and stuff about the internet...",
     FavouriteLanguage: "Javascript/Nodejs",
     OpenedIssues: 13,
     OpenedPullRequests: 48,
