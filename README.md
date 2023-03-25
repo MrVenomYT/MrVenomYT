@@ -1,18 +1,19 @@
 ![who](https://raw.githubusercontent.com/MrVenomYT/MrVenomYT/master/images/18123-developer.gif)
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm MrVenomYT and I am 2 year old. I mostly use Nodejs and Javascript and Discordjs as a primary language to code with projects. You can find more at </p>
+<p align="center">Hello I'm Muhammad Hasil and I am 24 year old. I mostly use Nodejs and Javascript and Discordjs as a primary language to code with projects. You can find more at </p>
 <p align="center">
   <a href="https://www.facebook.com/m.hasil.hun5/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
- <a href="https://instagram.com/realmrvenomyt"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ <a href="https://instagram.com/muhammad_hasil_13"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/muhammad_hasil_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCgkRkvD3IiZCtaxjyG-mwSA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <a href="https://pk.linkedin.com/in/muhammad-hasil-603842166
 "><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<h1 align="center">Join Support Server</h1>
+<h1 align="center">Personal Protfolio</h1>
  
- <a href="https://www.ihasil.xyz">Portfolio</a>
+ <a href="https://www.ihasil.xyz">Muhammad Hasil</a>
 
 
-## Hello, Im MrVenomYT <img src="https://raw.githubusercontent.com/MrVenomYT/MrVenomYT/master/images/WaveIcon.gif" width="30px">
+## Hello, Im Muhammad HasilT <img src="https://raw.githubusercontent.com/MrVenomYT/MrVenomYT/master/images/WaveIcon.gif" width="30px">
 
 
 ```js
