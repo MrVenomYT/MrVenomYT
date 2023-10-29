@@ -10,7 +10,7 @@
 "><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <h1 align="center">Personal Protfolio</h1>
  
- <a href="https://www.ihasil.xyz">Muhammad Hasil</a>
+ <a href="https://ihasil.xyz">Muhammad Hasil</a>
 
 
 ## Hello, Im Muhammad HasilT <img src="https://raw.githubusercontent.com/MrVenomYT/MrVenomYT/master/images/WaveIcon.gif" width="30px">
